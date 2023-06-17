@@ -136,7 +136,7 @@
 
         <h4 style="color:crimson;">Why you choose us</h4>
 
-        <p style="padding-top:20px; padding-bottom:20px ;">We are Royal fitness club from chilaw.
+        <p style="padding-top:20px; padding-bottom:20px ;">We are Royal Ritness Club from Chilaw.
           We are different from others beacuse we will provide a smooth guaidence to your dream.</p>
          
          <p>Our coach Mr.Royal Sanchala is a one of winning awrded coach and professional bodybuilder.His unique technologies and experiances will help 
